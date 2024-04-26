@@ -1,0 +1,32 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* align-content: center; */
+    border: 1px solid black;
+    width: 300px;
+    margin: auto;
+    padding: 15px;margin-top: 15%;
+}
+.p2{
+    display: flex;
+    flex-direction: column;
+}
+.submit input{
+    border: 1px solid white;
+}
+.submit{
+    display: flex;flex-direction: column;
+}
+.p2 div{
+    display: flex;
+    flex-direction: column;
+}
+.submit button{
+    background-color: lightgreen;
+}
+.p2 input{
+    width: 200px;
+    height: 30px;
+}
